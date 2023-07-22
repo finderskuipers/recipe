@@ -1,2 +1,2 @@
 # recipe
-Recipe website for pendemic, a fountain pen discord server.
+Recipe website for Pendemic, a fountain pen discord server.
